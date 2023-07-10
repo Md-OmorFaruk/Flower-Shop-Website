@@ -103,3 +103,20 @@ input {
   border-radius: 5px;
   margin-right: 10px;
 }
+.section6{
+      margin-top: 50px;
+      padding: 80px;
+      background-color: black;
+      text-align: center;
+}
+.section6 h2{
+      color: white;
+}
+.section6 p{
+     color: white;
+      margin: 0px;
+}
+#copy{
+      margin-top: 30px;
+      color:rgba(78, 57, 203, 0.422);
+}
