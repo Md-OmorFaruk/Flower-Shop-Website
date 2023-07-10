@@ -1,6 +1,7 @@
 *{
       margin: 0;
       padding: 0;
+      font-family: 'Lato', sans-serif;
 }
 header {
       background-color:rgba(229, 84, 115, 0.1) ;
@@ -16,12 +17,57 @@ header {
       align-items: center;
       gap: 40px;
 }
-
-button {
-      background-color: #E55473;
-}
-
 .heroimage img{
       width: 500px;
       height: 600px;
+}
+h1{
+      font-weight: 900;
+      font-size: 60px;
+      color: rgba(39, 39, 39, 1);
+      margin-bottom: 20px;
+}
+p{
+      color: rgba(39, 39, 39, 0.6);
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 400;
+       margin-bottom: 20px;
+}
+button {
+      background-color: #E55473;
+      padding: 10px 20px;
+      color: white;
+      font-size: 16px;
+      font-weight: 700;
+      border: none;
+      border-radius: 5px;
+}
+
+.heroimage2{
+      margin-top: 100px;
+      background-color:rgba(229, 84, 115, 0.05);
+      height: 400px;
+      padding:30px 350px ;
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+      text-align: center;
+
+}
+h2{
+      font-weight: 900;
+      font-size: 32px;
+      color: rgba(39, 39, 39, 1);
+      margin-bottom: 20px;
+}
+.heroimage2 img{
+      width: 250px;
+      height: 300px;
+}
+.section4{
+      text-align: center;
+      margin-top: 80px;
 }
