@@ -36,7 +36,7 @@ p{
 }
 button {
       background-color: #E55473;
-      padding: 10px 20px;
+      padding: 15px 25px;
       color: white;
       font-size: 16px;
       font-weight: 700;
@@ -81,6 +81,7 @@ h2{
       padding-top: 50px;
 
 }
+
 .section5{
       background-image: url('/Flower Asset/Rectangle\ 9.png');
       background-repeat: no-repeat;
@@ -89,6 +90,16 @@ h2{
       height: 300px;
       margin-left: 210px;
       margin-right: 210px;
+      border-radius: 10px;
+      
       
 
+}
+input {
+  width: 50%;
+  padding: 15px;
+  background-color:white;
+  border:none;
+  border-radius: 5px;
+  margin-right: 10px;
 }
