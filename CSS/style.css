@@ -1,3 +1,27 @@
-h1{
-      color:red;
+*{
+      margin: 0;
+      padding: 0;
+}
+header {
+      background-color:rgba(229, 84, 115, 0.1) ;
+}
+.heroimage{
+      height: 600px;
+      padding:50px 150px ;
+      margin-left: 40px;
+      margin-right: 40px;
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;
+      align-items: center;
+      gap: 40px;
+}
+
+button {
+      background-color: #E55473;
+}
+
+.heroimage img{
+      width: 500px;
+      height: 600px;
 }
