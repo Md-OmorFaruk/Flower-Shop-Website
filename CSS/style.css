@@ -87,7 +87,7 @@ h2{
 }
 
 .section5{
-      background-image: url("rectangle 9.png");
+      background-image: url('/asset/rectangle\ 9.png');
       background-repeat: no-repeat;
       background-size: cover;
       text-align: center;
@@ -95,9 +95,8 @@ h2{
       margin-left: 210px;
       margin-right: 210px;
       border-radius: 10px;
+     
       
-      
-
 }
 input {
   width: 50%;
