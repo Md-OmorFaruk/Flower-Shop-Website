@@ -87,7 +87,7 @@ h2{
 }
 
 .section5{
-      background-image: url('/asset/rectangle\ 9.png');
+      background-image: url('../asset/rectangle 9.png');
       
       background-size: cover;
       text-align: center;
@@ -122,8 +122,4 @@ input {
 #copy{
       margin-top: 30px;
       color:rgba(113, 113, 113, 0.564)2);
-}
-.omor{
-      background-image: url("/asset/pngwing 10.png");
-      height: 300px;
 }
