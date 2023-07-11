@@ -184,27 +184,27 @@ h5{
 .bonus1{
     
       text-align: center;
-      margin: 30px 0px 600px 170px;
+      margin: 30px 50px 500px 210px;
 }
 
 .pics{
-     width: 400px;
-      height: 280px;
+     width: 355px;
+      height: 230px;
       margin-right: 20px;
       
       
       
 }
 .pics1{
-       height: 280px;
-      width: 400px;
+       height: 235px;
+      width: 350px;
        margin-right: 20px;
       
       
 }
 .pics2{
-      height: 280px;
-      width: 400px;
+      height: 235px;
+      width: 350px;
      
       
       
@@ -225,4 +225,21 @@ h5{
 .left1>p{
       text-align: left;
       margin-bottom: 5px;
+}
+
+
+.backcolor{
+      text-align: center;
+      background-color:rgba(39, 39, 39, 0.05);
+      margin: 0px 200px;
+      padding: 100px 150px 200px 200px;
+}
+.r1{
+      float: left;
+      margin-right: 50px;
+      
+}
+.r1 > p{
+      font-weight: 900;
+      font-size: 16px;
 }
