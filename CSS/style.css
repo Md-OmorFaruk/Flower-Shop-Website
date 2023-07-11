@@ -126,19 +126,16 @@ input {
      
       float: left;
       padding: 30px;;
-       
-      
-       
-      
+            
 }
 .bonus{
     
       text-align: center;
-      margin: 30px 0px 30px 170px;
+      margin: 30px 0px 600px 170px;
 }
 
 .pic{
-      height: 350px;
+      height: 360px;
       width: 200px;
       background-color:rgba(167, 33, 98, 0.15);
       border-radius: 400px 400px 0px 0px;    
@@ -169,4 +166,63 @@ h5{
 .bonusup{
       margin-top: 80px;
       text-align: center;
+}
+
+
+
+
+
+
+
+
+.left1{
+     
+      float: left;
+     
+            
+}
+.bonus1{
+    
+      text-align: center;
+      margin: 30px 0px 600px 170px;
+}
+
+.pics{
+     width: 400px;
+      height: 280px;
+      margin-right: 20px;
+      
+      
+      
+}
+.pics1{
+       height: 280px;
+      width: 400px;
+       margin-right: 20px;
+      
+      
+}
+.pics2{
+      height: 280px;
+      width: 400px;
+     
+      
+      
+}
+
+
+.left1 > h3{
+      margin-top: 10px;
+      text-align: left;
+      margin-left: 0px;
+      padding-left: 0px;
+}
+.left1 > h3:hover{
+      color: rgb(87, 87, 87);
+      
+}
+
+.left1>p{
+      text-align: left;
+      margin-bottom: 5px;
 }
